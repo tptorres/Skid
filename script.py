@@ -12,19 +12,19 @@ def generateNumber():
 def writeToFile(girls, boys):
     emails = ["@gmail.com", "@yahoo.com",
               "@hotmail.com", "@outlook.com", "@skidmail.com"]
-    departments = ["Sales", "Human Resources", "Marketing",
-                   "Research", "Production", "Engineering", "Finance", "Quality Assurance", "Operations"]
+    departments = ["Sales", "Human_Resources", "Marketing",
+                   "Research", "Production", "Engineering", "Finance", "Quality_Assurance", "Operations"]
     skills = ['Azure', "Excel", "Photoshop",
               "Illustrator", "InDesign", "Premiere"]
 
-    with open("test.json", "w+") as file:
+    with open("employees.json", "w+") as file:
         for name in girls[:50]:
             object = {}
             object["EID"] = girls.index(name) + 1
             object["name"] = name.text.split()[0]
             object["email"] = object["name"] + \
                 str(random.randint(0, 999)) + random.choice(emails)
-            object["department"] = random.choice(departments)
+            object["department"] = random.choice(departments).lower()
             object["phone"] = generateNumber()
             file.write(str(object) + ",")
         for name in boys[:50]:
@@ -33,15 +33,9 @@ def writeToFile(girls, boys):
             object["name"] = name.text.split()[0]
             object["email"] = object["name"] + \
                 str(random.randint(0, 999)) + random.choice(emails)
-            object["department"] = random.choice(departments)
+            object["department"] = random.choice(departments).lower()
             object["phone"] = generateNumber()
             file.write(str(object) + ",")
-
-
-def readFile():
-    with open("test.json", "r") as f:
-        data = json.load(f)
-        print(data)
 
 
 def main():
@@ -54,8 +48,7 @@ def main():
     soup_boys = BeautifulSoup(res_boys.text, 'html.parser')
     parent1 = soup_girls.select("article ol li")
     parent2 = soup_boys.select("section div ul li a")
-    #writeToFile(parent1, parent2)
-    readFile()
+    writeToFile(parent1, parent2)
 
 
 main()

@@ -1,702 +1,702 @@
 [
   {
-    "employee": "Olivia",
-    "email": "Olivia509@gmail.com",
-    "department": "Human Resources",
-    "phone": "5071430865",
-    "EID": 1
+    "EID": 1,
+    "name": "Olivia",
+    "email": "Olivia665@gmail.com",
+    "department": "quality_assurance",
+    "phone": "9371059124"
   },
   {
-    "employee": "Amelia",
-    "email": "Amelia367@hotmail.com",
-    "department": "Operations",
-    "phone": "5339198686",
-    "EID": 2
+    "EID": 2,
+    "name": "Amelia",
+    "email": "Amelia66@gmail.com",
+    "department": "production",
+    "phone": "0593761838"
   },
   {
-    "employee": "Isla",
-    "email": "Isla370@skidmail.com",
-    "department": "Production",
-    "phone": "3016275662",
-    "EID": 3
+    "EID": 3,
+    "name": "Isla",
+    "email": "Isla914@outlook.com",
+    "department": "research",
+    "phone": "9058164343"
   },
   {
-    "employee": "Ava",
-    "email": "Ava319@skidmail.com",
-    "department": "Quality Assurance",
-    "phone": "2351228536",
-    "EID": 4
+    "EID": 4,
+    "name": "Ava",
+    "email": "Ava625@outlook.com",
+    "department": "finance",
+    "phone": "5877832108"
   },
   {
-    "employee": "Emily",
-    "email": "Emily106@skidmail.com",
-    "department": "Operations",
-    "phone": "8006626153",
-    "EID": 5
+    "EID": 5,
+    "name": "Emily",
+    "email": "Emily420@yahoo.com",
+    "department": "production",
+    "phone": "1221681408"
   },
   {
-    "employee": "Sophia",
-    "email": "Sophia219@hotmail.com",
-    "department": "Engineering",
-    "phone": "2230109870",
-    "EID": 6
+    "EID": 6,
+    "name": "Sophia",
+    "email": "Sophia115@yahoo.com",
+    "department": "finance",
+    "phone": "2549781922"
   },
   {
-    "employee": "Grace",
-    "email": "Grace484@gmail.com",
-    "department": "Sales",
-    "phone": "3051382167",
-    "EID": 7
+    "EID": 7,
+    "name": "Grace",
+    "email": "Grace788@yahoo.com",
+    "department": "production",
+    "phone": "1896762888"
   },
   {
-    "employee": "Mia",
-    "email": "Mia63@skidmail.com",
-    "department": "Engineering",
-    "phone": "0408317495",
-    "EID": 8
+    "EID": 8,
+    "name": "Mia",
+    "email": "Mia230@skidmail.com",
+    "department": "human_resources",
+    "phone": "8590239870"
   },
   {
-    "employee": "Poppy",
-    "email": "Poppy191@outlook.com",
-    "department": "Quality Assurance",
-    "phone": "0280301329",
-    "EID": 9
+    "EID": 9,
+    "name": "Poppy",
+    "email": "Poppy212@hotmail.com",
+    "department": "operations",
+    "phone": "0647315490"
   },
   {
-    "employee": "Ella",
-    "email": "Ella581@yahoo.com",
-    "department": "Marketing",
-    "phone": "4788978017",
-    "EID": 10
+    "EID": 10,
+    "name": "Ella",
+    "email": "Ella53@outlook.com",
+    "department": "sales",
+    "phone": "2528379258"
   },
   {
-    "employee": "Lily",
-    "email": "Lily87@hotmail.com",
-    "department": "Human Resources",
-    "phone": "5994847858",
-    "EID": 11
+    "EID": 11,
+    "name": "Lily",
+    "email": "Lily449@yahoo.com",
+    "department": "marketing",
+    "phone": "9966749985"
   },
   {
-    "employee": "Evie",
-    "email": "Evie66@gmail.com",
-    "department": "Finance",
-    "phone": "8148944288",
-    "EID": 12
+    "EID": 12,
+    "name": "Evie",
+    "email": "Evie717@gmail.com",
+    "department": "quality_assurance",
+    "phone": "7166285631"
   },
   {
-    "employee": "Isabella",
-    "email": "Isabella895@hotmail.com",
-    "department": "Quality Assurance",
-    "phone": "3205607653",
-    "EID": 13
+    "EID": 13,
+    "name": "Isabella",
+    "email": "Isabella585@gmail.com",
+    "department": "marketing",
+    "phone": "1801272833"
   },
   {
-    "employee": "Sophie",
-    "email": "Sophie218@yahoo.com",
-    "department": "Research",
-    "phone": "8105548590",
-    "EID": 14
+    "EID": 14,
+    "name": "Sophie",
+    "email": "Sophie894@skidmail.com",
+    "department": "finance",
+    "phone": "4062072467"
   },
   {
-    "employee": "Ivy",
-    "email": "Ivy219@skidmail.com",
-    "department": "Research",
-    "phone": "6672335654",
-    "EID": 15
+    "EID": 15,
+    "name": "Ivy",
+    "email": "Ivy452@outlook.com",
+    "department": "human_resources",
+    "phone": "5748942266"
   },
   {
-    "employee": "Freya",
-    "email": "Freya662@hotmail.com",
-    "department": "Marketing",
-    "phone": "3367686605",
-    "EID": 16
+    "EID": 16,
+    "name": "Freya",
+    "email": "Freya651@yahoo.com",
+    "department": "marketing",
+    "phone": "3019187233"
   },
   {
-    "employee": "Harper",
-    "email": "Harper259@hotmail.com",
-    "department": "Research",
-    "phone": "8445330994",
-    "EID": 17
+    "EID": 17,
+    "name": "Harper",
+    "email": "Harper183@outlook.com",
+    "department": "sales",
+    "phone": "6838237463"
   },
   {
-    "employee": "Willow",
-    "email": "Willow182@hotmail.com",
-    "department": "Sales",
-    "phone": "8412856488",
-    "EID": 18
+    "EID": 18,
+    "name": "Willow",
+    "email": "Willow587@outlook.com",
+    "department": "research",
+    "phone": "1522155122"
   },
   {
-    "employee": "Charlotte",
-    "email": "Charlotte255@outlook.com",
-    "department": "Quality Assurance",
-    "phone": "9237581328",
-    "EID": 19
+    "EID": 19,
+    "name": "Charlotte",
+    "email": "Charlotte639@gmail.com",
+    "department": "human_resources",
+    "phone": "3950344129"
   },
   {
-    "employee": "Jessica",
-    "email": "Jessica404@skidmail.com",
-    "department": "Operations",
-    "phone": "3500130014",
-    "EID": 20
+    "EID": 20,
+    "name": "Jessica",
+    "email": "Jessica319@hotmail.com",
+    "department": "research",
+    "phone": "6002393931"
   },
   {
-    "employee": "Rosie",
-    "email": "Rosie532@yahoo.com",
-    "department": "Marketing",
-    "phone": "5986855734",
-    "EID": 21
+    "EID": 21,
+    "name": "Rosie",
+    "email": "Rosie174@hotmail.com",
+    "department": "sales",
+    "phone": "7831683495"
   },
   {
-    "employee": "Daisy",
-    "email": "Daisy651@gmail.com",
-    "department": "Production",
-    "phone": "0067689132",
-    "EID": 22
+    "EID": 22,
+    "name": "Daisy",
+    "email": "Daisy380@skidmail.com",
+    "department": "human_resources",
+    "phone": "8585008484"
   },
   {
-    "employee": "Alice",
-    "email": "Alice966@gmail.com",
-    "department": "Operations",
-    "phone": "0545091150",
-    "EID": 23
+    "EID": 23,
+    "name": "Alice",
+    "email": "Alice16@yahoo.com",
+    "department": "production",
+    "phone": "4734782924"
   },
   {
-    "employee": "Elsie",
-    "email": "Elsie532@skidmail.com",
-    "department": "Operations",
-    "phone": "9245718315",
-    "EID": 24
+    "EID": 24,
+    "name": "Elsie",
+    "email": "Elsie409@skidmail.com",
+    "department": "research",
+    "phone": "8954018898"
   },
   {
-    "employee": "Sienna",
-    "email": "Sienna665@yahoo.com",
-    "department": "Sales",
-    "phone": "3315776221",
-    "EID": 25
+    "EID": 25,
+    "name": "Sienna",
+    "email": "Sienna378@skidmail.com",
+    "department": "sales",
+    "phone": "3517529990"
   },
   {
-    "employee": "Florence",
-    "email": "Florence827@hotmail.com",
-    "department": "Production",
-    "phone": "8537337529",
-    "EID": 26
+    "EID": 26,
+    "name": "Florence",
+    "email": "Florence900@outlook.com",
+    "department": "operations",
+    "phone": "3946448932"
   },
   {
-    "employee": "Evelyn",
-    "email": "Evelyn580@gmail.com",
-    "department": "Research",
-    "phone": "1561349620",
-    "EID": 27
+    "EID": 27,
+    "name": "Evelyn",
+    "email": "Evelyn896@gmail.com",
+    "department": "human_resources",
+    "phone": "0723779204"
   },
   {
-    "employee": "Phoebe",
-    "email": "Phoebe387@outlook.com",
-    "department": "Production",
-    "phone": "4110219835",
-    "EID": 28
+    "EID": 28,
+    "name": "Phoebe",
+    "email": "Phoebe724@skidmail.com",
+    "department": "operations",
+    "phone": "0181345370"
   },
   {
-    "employee": "Aria",
-    "email": "Aria202@outlook.com",
-    "department": "Research",
-    "phone": "7744748095",
-    "EID": 29
+    "EID": 29,
+    "name": "Aria",
+    "email": "Aria154@hotmail.com",
+    "department": "finance",
+    "phone": "9989868076"
   },
   {
-    "employee": "Ruby",
-    "email": "Ruby983@gmail.com",
-    "department": "Operations",
-    "phone": "0422407029",
-    "EID": 30
+    "EID": 30,
+    "name": "Ruby",
+    "email": "Ruby590@outlook.com",
+    "department": "marketing",
+    "phone": "8472390135"
   },
   {
-    "employee": "Isabelle",
-    "email": "Isabelle544@yahoo.com",
-    "department": "Human Resources",
-    "phone": "2066834368",
-    "EID": 31
+    "EID": 31,
+    "name": "Isabelle",
+    "email": "Isabelle840@skidmail.com",
+    "department": "engineering",
+    "phone": "6959025303"
   },
   {
-    "employee": "Esme",
-    "email": "Esme252@yahoo.com",
-    "department": "Quality Assurance",
-    "phone": "9058182427",
-    "EID": 32
+    "EID": 32,
+    "name": "Esme",
+    "email": "Esme985@gmail.com",
+    "department": "quality_assurance",
+    "phone": "4062533757"
   },
   {
-    "employee": "Scarlett",
-    "email": "Scarlett325@outlook.com",
-    "department": "Human Resources",
-    "phone": "1230813806",
-    "EID": 33
+    "EID": 33,
+    "name": "Scarlett",
+    "email": "Scarlett861@outlook.com",
+    "department": "human_resources",
+    "phone": "6998819336"
   },
   {
-    "employee": "Matilda",
-    "email": "Matilda631@gmail.com",
-    "department": "Operations",
-    "phone": "7393852804",
-    "EID": 34
+    "EID": 34,
+    "name": "Matilda",
+    "email": "Matilda749@skidmail.com",
+    "department": "sales",
+    "phone": "4729355276"
   },
   {
-    "employee": "Sofia",
-    "email": "Sofia537@skidmail.com",
-    "department": "Research",
-    "phone": "7899945211",
-    "EID": 35
+    "EID": 35,
+    "name": "Sofia",
+    "email": "Sofia795@hotmail.com",
+    "department": "research",
+    "phone": "2588097295"
   },
   {
-    "employee": "Millie",
-    "email": "Millie50@hotmail.com",
-    "department": "Research",
-    "phone": "7240100476",
-    "EID": 36
+    "EID": 36,
+    "name": "Millie",
+    "email": "Millie380@gmail.com",
+    "department": "operations",
+    "phone": "5408747077"
   },
   {
-    "employee": "Eva",
-    "email": "Eva572@gmail.com",
-    "department": "Research",
-    "phone": "7236865008",
-    "EID": 37
+    "EID": 37,
+    "name": "Eva",
+    "email": "Eva332@outlook.com",
+    "department": "quality_assurance",
+    "phone": "5930755108"
   },
   {
-    "employee": "Layla",
-    "email": "Layla196@yahoo.com",
-    "department": "Research",
-    "phone": "3834980110",
-    "EID": 38
+    "EID": 38,
+    "name": "Layla",
+    "email": "Layla430@outlook.com",
+    "department": "production",
+    "phone": "7743442286"
   },
   {
-    "employee": "Chloe",
-    "email": "Chloe110@yahoo.com",
-    "department": "Human Resources",
-    "phone": "1624847441",
-    "EID": 39
+    "EID": 39,
+    "name": "Chloe",
+    "email": "Chloe858@skidmail.com",
+    "department": "marketing",
+    "phone": "4171671584"
   },
   {
-    "employee": "Luna",
-    "email": "Luna455@outlook.com",
-    "department": "Human Resources",
-    "phone": "2829729076",
-    "EID": 40
+    "EID": 40,
+    "name": "Luna",
+    "email": "Luna531@skidmail.com",
+    "department": "sales",
+    "phone": "6683907953"
   },
   {
-    "employee": "Maisie",
-    "email": "Maisie205@gmail.com",
-    "department": "Sales",
-    "phone": "3306428473",
-    "EID": 41
+    "EID": 41,
+    "name": "Maisie",
+    "email": "Maisie108@yahoo.com",
+    "department": "sales",
+    "phone": "5348210499"
   },
   {
-    "employee": "Lucy",
-    "email": "Lucy164@hotmail.com",
-    "department": "Engineering",
-    "phone": "1926268200",
-    "EID": 42
+    "EID": 42,
+    "name": "Lucy",
+    "email": "Lucy637@yahoo.com",
+    "department": "engineering",
+    "phone": "2748906953"
   },
   {
-    "employee": "Erin",
-    "email": "Erin817@gmail.com",
-    "department": "Human Resources",
-    "phone": "3686760778",
-    "EID": 43
+    "EID": 43,
+    "name": "Erin",
+    "email": "Erin233@yahoo.com",
+    "department": "sales",
+    "phone": "1513610275"
   },
   {
-    "employee": "Eliza",
-    "email": "Eliza866@gmail.com",
-    "department": "Quality Assurance",
-    "phone": "7564479898",
-    "EID": 44
+    "EID": 44,
+    "name": "Eliza",
+    "email": "Eliza885@outlook.com",
+    "department": "operations",
+    "phone": "1675643910"
   },
   {
-    "employee": "Ellie",
-    "email": "Ellie325@skidmail.com",
-    "department": "Finance",
-    "phone": "3758633842",
-    "EID": 45
+    "EID": 45,
+    "name": "Ellie",
+    "email": "Ellie838@gmail.com",
+    "department": "research",
+    "phone": "0762613015"
   },
   {
-    "employee": "Mila",
-    "email": "Mila637@skidmail.com",
-    "department": "Sales",
-    "phone": "5975684998",
-    "EID": 46
+    "EID": 46,
+    "name": "Mila",
+    "email": "Mila59@gmail.com",
+    "department": "operations",
+    "phone": "9065716441"
   },
   {
-    "employee": "Imogen",
-    "email": "Imogen247@skidmail.com",
-    "department": "Research",
-    "phone": "7581617363",
-    "EID": 47
+    "EID": 47,
+    "name": "Imogen",
+    "email": "Imogen180@outlook.com",
+    "department": "research",
+    "phone": "9562276522"
   },
   {
-    "employee": "Bella",
-    "email": "Bella203@outlook.com",
-    "department": "Human Resources",
-    "phone": "3798172769",
-    "EID": 48
+    "EID": 48,
+    "name": "Bella",
+    "email": "Bella865@gmail.com",
+    "department": "operations",
+    "phone": "8692055471"
   },
   {
-    "employee": "Lola",
-    "email": "Lola293@outlook.com",
-    "department": "Operations",
-    "phone": "3981458482",
-    "EID": 49
+    "EID": 49,
+    "name": "Lola",
+    "email": "Lola602@outlook.com",
+    "department": "operations",
+    "phone": "3801634176"
   },
   {
-    "employee": "Molly",
-    "email": "Molly483@outlook.com",
-    "department": "Operations",
-    "phone": "6467066389",
-    "EID": 50
+    "EID": 50,
+    "name": "Molly",
+    "email": "Molly186@outlook.com",
+    "department": "finance",
+    "phone": "3153879448"
   },
   {
-    "employee": "Liam",
-    "email": "Liam845@outlook.com",
-    "department": "Sales",
-    "phone": "3462473421",
-    "EID": 51
+    "EID": 51,
+    "name": "Liam",
+    "email": "Liam414@outlook.com",
+    "department": "quality_assurance",
+    "phone": "6427557112"
   },
   {
-    "employee": "Noah",
-    "email": "Noah736@skidmail.com",
-    "department": "Engineering",
-    "phone": "9767377149",
-    "EID": 52
+    "EID": 52,
+    "name": "Noah",
+    "email": "Noah112@yahoo.com",
+    "department": "operations",
+    "phone": "1541214621"
   },
   {
-    "employee": "William",
-    "email": "William897@yahoo.com",
-    "department": "Research",
-    "phone": "3750449710",
-    "EID": 53
+    "EID": 53,
+    "name": "William",
+    "email": "William622@hotmail.com",
+    "department": "human_resources",
+    "phone": "3011551236"
   },
   {
-    "employee": "James",
-    "email": "James169@outlook.com",
-    "department": "Operations",
-    "phone": "8374008179",
-    "EID": 54
+    "EID": 54,
+    "name": "James",
+    "email": "James491@yahoo.com",
+    "department": "operations",
+    "phone": "8278034911"
   },
   {
-    "employee": "Oliver",
-    "email": "Oliver942@yahoo.com",
-    "department": "Research",
-    "phone": "4014276320",
-    "EID": 55
+    "EID": 55,
+    "name": "Oliver",
+    "email": "Oliver792@skidmail.com",
+    "department": "sales",
+    "phone": "0518303525"
   },
   {
-    "employee": "Benjamin",
-    "email": "Benjamin453@outlook.com",
-    "department": "Sales",
-    "phone": "9472049106",
-    "EID": 56
+    "EID": 56,
+    "name": "Benjamin",
+    "email": "Benjamin71@outlook.com",
+    "department": "research",
+    "phone": "9613766669"
   },
   {
-    "employee": "Elijah",
-    "email": "Elijah998@outlook.com",
-    "department": "Operations",
-    "phone": "8072819668",
-    "EID": 57
+    "EID": 57,
+    "name": "Elijah",
+    "email": "Elijah549@hotmail.com",
+    "department": "marketing",
+    "phone": "4662298796"
   },
   {
-    "employee": "Lucas",
-    "email": "Lucas950@gmail.com",
-    "department": "Finance",
-    "phone": "0598755328",
-    "EID": 58
+    "EID": 58,
+    "name": "Lucas",
+    "email": "Lucas839@hotmail.com",
+    "department": "marketing",
+    "phone": "8982804965"
   },
   {
-    "employee": "Mason",
-    "email": "Mason846@yahoo.com",
-    "department": "Sales",
-    "phone": "2898546550",
-    "EID": 59
+    "EID": 59,
+    "name": "Mason",
+    "email": "Mason495@outlook.com",
+    "department": "quality_assurance",
+    "phone": "5174901309"
   },
   {
-    "employee": "Logan",
-    "email": "Logan611@outlook.com",
-    "department": "Sales",
-    "phone": "7137364215",
-    "EID": 60
+    "EID": 60,
+    "name": "Logan",
+    "email": "Logan432@hotmail.com",
+    "department": "engineering",
+    "phone": "5834138227"
   },
   {
-    "employee": "Alexander",
-    "email": "Alexander139@yahoo.com",
-    "department": "Research",
-    "phone": "3277401472",
-    "EID": 61
+    "EID": 61,
+    "name": "Alexander",
+    "email": "Alexander114@hotmail.com",
+    "department": "engineering",
+    "phone": "4995860191"
   },
   {
-    "employee": "Ethan",
-    "email": "Ethan140@hotmail.com",
-    "department": "Marketing",
-    "phone": "1762925667",
-    "EID": 62
+    "EID": 62,
+    "name": "Ethan",
+    "email": "Ethan805@hotmail.com",
+    "department": "marketing",
+    "phone": "5591105811"
   },
   {
-    "employee": "Jacob",
-    "email": "Jacob18@yahoo.com",
-    "department": "Finance",
-    "phone": "8054086494",
-    "EID": 63
+    "EID": 63,
+    "name": "Jacob",
+    "email": "Jacob501@outlook.com",
+    "department": "quality_assurance",
+    "phone": "6880115710"
   },
   {
-    "employee": "Michael",
-    "email": "Michael791@gmail.com",
-    "department": "Quality Assurance",
-    "phone": "2327109623",
-    "EID": 64
+    "EID": 64,
+    "name": "Michael",
+    "email": "Michael160@hotmail.com",
+    "department": "marketing",
+    "phone": "2712731749"
   },
   {
-    "employee": "Daniel",
-    "email": "Daniel694@yahoo.com",
-    "department": "Quality Assurance",
-    "phone": "3058276409",
-    "EID": 65
+    "EID": 65,
+    "name": "Daniel",
+    "email": "Daniel592@hotmail.com",
+    "department": "operations",
+    "phone": "5904578868"
   },
   {
-    "employee": "Henry",
-    "email": "Henry964@gmail.com",
-    "department": "Operations",
-    "phone": "0613787248",
-    "EID": 66
+    "EID": 66,
+    "name": "Henry",
+    "email": "Henry451@yahoo.com",
+    "department": "sales",
+    "phone": "4402339852"
   },
   {
-    "employee": "Jackson",
-    "email": "Jackson31@hotmail.com",
-    "department": "Marketing",
-    "phone": "6373465284",
-    "EID": 67
+    "EID": 67,
+    "name": "Jackson",
+    "email": "Jackson370@gmail.com",
+    "department": "research",
+    "phone": "6010698033"
   },
   {
-    "employee": "Sebastian",
-    "email": "Sebastian311@hotmail.com",
-    "department": "Sales",
-    "phone": "4417217585",
-    "EID": 68
+    "EID": 68,
+    "name": "Sebastian",
+    "email": "Sebastian471@gmail.com",
+    "department": "research",
+    "phone": "3514693958"
   },
   {
-    "employee": "Aiden",
-    "email": "Aiden985@gmail.com",
-    "department": "Sales",
-    "phone": "2415378878",
-    "EID": 69
+    "EID": 69,
+    "name": "Aiden",
+    "email": "Aiden730@skidmail.com",
+    "department": "research",
+    "phone": "7818721479"
   },
   {
-    "employee": "Matthew",
-    "email": "Matthew324@hotmail.com",
-    "department": "Human Resources",
-    "phone": "4267893414",
-    "EID": 70
+    "EID": 70,
+    "name": "Matthew",
+    "email": "Matthew741@skidmail.com",
+    "department": "finance",
+    "phone": "1175175813"
   },
   {
-    "employee": "Samuel",
-    "email": "Samuel705@gmail.com",
-    "department": "Marketing",
-    "phone": "0254051103",
-    "EID": 71
+    "EID": 71,
+    "name": "Samuel",
+    "email": "Samuel25@gmail.com",
+    "department": "quality_assurance",
+    "phone": "8704160378"
   },
   {
-    "employee": "David",
-    "email": "David519@yahoo.com",
-    "department": "Marketing",
-    "phone": "7841129195",
-    "EID": 72
+    "EID": 72,
+    "name": "David",
+    "email": "David290@yahoo.com",
+    "department": "human_resources",
+    "phone": "1634635862"
   },
   {
-    "employee": "Joseph",
-    "email": "Joseph953@skidmail.com",
-    "department": "Marketing",
-    "phone": "5235823100",
-    "EID": 73
+    "EID": 73,
+    "name": "Joseph",
+    "email": "Joseph913@gmail.com",
+    "department": "finance",
+    "phone": "6912038713"
   },
   {
-    "employee": "Carter",
-    "email": "Carter177@outlook.com",
-    "department": "Sales",
-    "phone": "8117835921",
-    "EID": 74
+    "EID": 74,
+    "name": "Carter",
+    "email": "Carter729@yahoo.com",
+    "department": "production",
+    "phone": "5207743026"
   },
   {
-    "employee": "Owen",
-    "email": "Owen659@hotmail.com",
-    "department": "Research",
-    "phone": "9620948800",
-    "EID": 75
+    "EID": 75,
+    "name": "Owen",
+    "email": "Owen717@gmail.com",
+    "department": "marketing",
+    "phone": "7285672037"
   },
   {
-    "employee": "Wyatt",
-    "email": "Wyatt556@skidmail.com",
-    "department": "Quality Assurance",
-    "phone": "8904705913",
-    "EID": 76
+    "EID": 76,
+    "name": "Wyatt",
+    "email": "Wyatt349@hotmail.com",
+    "department": "production",
+    "phone": "6877683147"
   },
   {
-    "employee": "John",
-    "email": "John435@gmail.com",
-    "department": "Marketing",
-    "phone": "0452077652",
-    "EID": 77
+    "EID": 77,
+    "name": "John",
+    "email": "John583@outlook.com",
+    "department": "production",
+    "phone": "0820599913"
   },
   {
-    "employee": "Jack",
-    "email": "Jack937@skidmail.com",
-    "department": "Quality Assurance",
-    "phone": "6547853207",
-    "EID": 78
+    "EID": 78,
+    "name": "Jack",
+    "email": "Jack99@hotmail.com",
+    "department": "finance",
+    "phone": "4772427240"
   },
   {
-    "employee": "Luke",
-    "email": "Luke515@outlook.com",
-    "department": "Research",
-    "phone": "1000793958",
-    "EID": 79
+    "EID": 79,
+    "name": "Luke",
+    "email": "Luke649@outlook.com",
+    "department": "marketing",
+    "phone": "2378499679"
   },
   {
-    "employee": "Jayden",
-    "email": "Jayden183@yahoo.com",
-    "department": "Research",
-    "phone": "4846390694",
-    "EID": 80
+    "EID": 80,
+    "name": "Jayden",
+    "email": "Jayden954@gmail.com",
+    "department": "engineering",
+    "phone": "7461262746"
   },
   {
-    "employee": "Dylan",
-    "email": "Dylan950@yahoo.com",
-    "department": "Engineering",
-    "phone": "3322906340",
-    "EID": 81
+    "EID": 81,
+    "name": "Dylan",
+    "email": "Dylan759@hotmail.com",
+    "department": "quality_assurance",
+    "phone": "3117379472"
   },
   {
-    "employee": "Grayson",
-    "email": "Grayson940@hotmail.com",
-    "department": "Operations",
-    "phone": "7889343753",
-    "EID": 82
+    "EID": 82,
+    "name": "Grayson",
+    "email": "Grayson95@outlook.com",
+    "department": "sales",
+    "phone": "6165848640"
   },
   {
-    "employee": "Levi",
-    "email": "Levi857@yahoo.com",
-    "department": "Production",
-    "phone": "7699127189",
-    "EID": 83
+    "EID": 83,
+    "name": "Levi",
+    "email": "Levi913@hotmail.com",
+    "department": "human_resources",
+    "phone": "6325455506"
   },
   {
-    "employee": "Issac",
-    "email": "Issac191@outlook.com",
-    "department": "Finance",
-    "phone": "2559690557",
-    "EID": 84
+    "EID": 84,
+    "name": "Issac",
+    "email": "Issac222@gmail.com",
+    "department": "operations",
+    "phone": "0187813793"
   },
   {
-    "employee": "Gabriel",
-    "email": "Gabriel56@yahoo.com",
-    "department": "Engineering",
-    "phone": "3517923280",
-    "EID": 85
+    "EID": 85,
+    "name": "Gabriel",
+    "email": "Gabriel185@outlook.com",
+    "department": "production",
+    "phone": "4826728494"
   },
   {
-    "employee": "Julian",
-    "email": "Julian775@yahoo.com",
-    "department": "Engineering",
-    "phone": "7889029325",
-    "EID": 86
+    "EID": 86,
+    "name": "Julian",
+    "email": "Julian54@hotmail.com",
+    "department": "human_resources",
+    "phone": "2827560429"
   },
   {
-    "employee": "Mateo",
-    "email": "Mateo207@skidmail.com",
-    "department": "Quality Assurance",
-    "phone": "9655303736",
-    "EID": 87
+    "EID": 87,
+    "name": "Mateo",
+    "email": "Mateo215@hotmail.com",
+    "department": "sales",
+    "phone": "4135217942"
   },
   {
-    "employee": "Anthony",
-    "email": "Anthony355@hotmail.com",
-    "department": "Engineering",
-    "phone": "6376830706",
-    "EID": 88
+    "EID": 88,
+    "name": "Anthony",
+    "email": "Anthony810@outlook.com",
+    "department": "finance",
+    "phone": "4092755914"
   },
   {
-    "employee": "Jaxon",
-    "email": "Jaxon82@skidmail.com",
-    "department": "Research",
-    "phone": "2030601643",
-    "EID": 89
+    "EID": 89,
+    "name": "Jaxon",
+    "email": "Jaxon334@outlook.com",
+    "department": "finance",
+    "phone": "6119310931"
   },
   {
-    "employee": "Lincoln",
-    "email": "Lincoln394@gmail.com",
-    "department": "Quality Assurance",
-    "phone": "3416318941",
-    "EID": 90
+    "EID": 90,
+    "name": "Lincoln",
+    "email": "Lincoln524@outlook.com",
+    "department": "sales",
+    "phone": "7322733708"
   },
   {
-    "employee": "Joshua",
-    "email": "Joshua146@skidmail.com",
-    "department": "Production",
-    "phone": "8954389785",
-    "EID": 91
+    "EID": 91,
+    "name": "Joshua",
+    "email": "Joshua250@gmail.com",
+    "department": "sales",
+    "phone": "7500233350"
   },
   {
-    "employee": "Christopher",
-    "email": "Christopher199@yahoo.com",
-    "department": "Finance",
-    "phone": "1600584633",
-    "EID": 92
+    "EID": 92,
+    "name": "Christopher",
+    "email": "Christopher175@yahoo.com",
+    "department": "operations",
+    "phone": "6479448741"
   },
   {
-    "employee": "Andrew",
-    "email": "Andrew690@gmail.com",
-    "department": "Marketing",
-    "phone": "5456244868",
-    "EID": 93
+    "EID": 93,
+    "name": "Andrew",
+    "email": "Andrew640@outlook.com",
+    "department": "research",
+    "phone": "2448769754"
   },
   {
-    "employee": "Theodore",
-    "email": "Theodore838@outlook.com",
-    "department": "Production",
-    "phone": "9925126332",
-    "EID": 94
+    "EID": 94,
+    "name": "Theodore",
+    "email": "Theodore396@skidmail.com",
+    "department": "research",
+    "phone": "1709169770"
   },
   {
-    "employee": "Caleb",
-    "email": "Caleb284@hotmail.com",
-    "department": "Operations",
-    "phone": "2750968103",
-    "EID": 95
+    "EID": 95,
+    "name": "Caleb",
+    "email": "Caleb171@skidmail.com",
+    "department": "engineering",
+    "phone": "6807712330"
   },
   {
-    "employee": "Ryan",
-    "email": "Ryan883@gmail.com",
-    "department": "Research",
-    "phone": "9390440128",
-    "EID": 96
+    "EID": 96,
+    "name": "Ryan",
+    "email": "Ryan7@gmail.com",
+    "department": "research",
+    "phone": "6680550510"
   },
   {
-    "employee": "Asher",
-    "email": "Asher294@gmail.com",
-    "department": "Sales",
-    "phone": "4457148786",
-    "EID": 97
+    "EID": 97,
+    "name": "Asher",
+    "email": "Asher876@yahoo.com",
+    "department": "human_resources",
+    "phone": "8587186142"
   },
   {
-    "employee": "Nathan",
-    "email": "Nathan575@hotmail.com",
-    "department": "Engineering",
-    "phone": "0842208234",
-    "EID": 98
+    "EID": 98,
+    "name": "Nathan",
+    "email": "Nathan963@skidmail.com",
+    "department": "operations",
+    "phone": "8091236820"
   },
   {
-    "employee": "Thomas",
-    "email": "Thomas260@outlook.com",
-    "department": "Production",
-    "phone": "7434569414",
-    "EID": 99
+    "EID": 99,
+    "name": "Thomas",
+    "email": "Thomas577@gmail.com",
+    "department": "marketing",
+    "phone": "3768148293"
   },
   {
-    "employee": "Leo",
-    "email": "Leo866@yahoo.com",
-    "department": "Engineering",
-    "phone": "0157985467",
-    "EID": 100
+    "EID": 100,
+    "name": "Leo",
+    "email": "Leo755@outlook.com",
+    "department": "research",
+    "phone": "7056313673"
   }
 ]
