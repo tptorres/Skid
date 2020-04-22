@@ -1,0 +1,55 @@
+Goals
+    - Potential Admin page to add more users to the database ( which will just be added to the json file ; stretch)
+    - delete employees when they leave the job (CRUD)
+    
+
+Backend
+    - Create routes for three Views
+        - Home route /api/v1/employees
+        - Profile route /api/v1/employees/id
+        - Department route /api/v1/department 
+            - Filter people out 
+
+Steps
+    => Get the data first
+    => Write the script that will create the user and add it to a json list
+    
+    => Grab users with their associated email and top 2 skills; filter out other skills and desc
+
+
+
+
+Mobile End
+    - Home Page ; scrollable view with cells and populate those cells with info about the person
+    - Max 3-5 skills for each person
+
+
+Script 
+    - Web scrape names and associate department names, and emails for them
+    - Each name will have the email be the first letter of their first name and entire last name @ gmail.com
+    - Generating description of skills?
+
+Views
+    1. Main View with employees sorted by last name
+    2. Profile View w/ peoples skills and associated info; email, phone
+    3. Can click on middle button to see people in the same department
+        Main skills will be highlighted in buttons next to names  
+
+Employee Schema 
+    Name -> String 
+    Skills -> Array[Objects]: { Skill: Description }
+    Email -> String
+    Department -> String
+    EID -> Int
+    Phone # -> String
+
+
+
+
+
+
+
+
+Flask Notes
+
+    - /<name> means localhost:5000/tyler and grabs the parameter as an argument in the route method
