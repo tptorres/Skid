@@ -3,9 +3,9 @@ from flask import Flask, jsonify, request
 app = Flask(__name__)
 
 
-@app.route('/<name>')
-def hello(name):
-    return "Hello " + name
+@app.route('/api/v1')
+def hello():
+    return "<h1>Welcome to the Skid API</h1>"
 
 # @info Gets a random number of employees
 # @access Public
