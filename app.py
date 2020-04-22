@@ -9,6 +9,8 @@ def hello():
 
 
 @app.route('/api/v1/test')
+def test():
+    return "<h1>Testing routes</h1>"
 # @info Gets a random number of employees
 # @access Public
 @app.route('/api/v1/employees', methods=['GET'])
