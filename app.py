@@ -7,6 +7,8 @@ app = Flask(__name__)
 def hello():
     return "<h1>Welcome to the Skid API</h1>"
 
+
+@app.route('/api/v1/test')
 # @info Gets a random number of employees
 # @access Public
 @app.route('/api/v1/employees', methods=['GET'])
