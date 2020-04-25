@@ -2,21 +2,7 @@ import json
 from flask import Flask, jsonify, request
 app = Flask(__name__)
 
-
-@app.route('/api/v1')
-def hello():
-    return "<h1>Welcome to the Skid API</h1>"
-
-
-@app.route('/api/v1/test')
-def test():
-    return "<h1>Testing routes</h1>"
-# @info Gets a random number of employees
-# @access Public
-@app.route('/api/v1/employees', methods=['GET'])
-def get_all_employees():
-    data = get_employees()
-    return jsonify(data)
+# Helper functions for routes
 
 
 def get_employees():
@@ -24,7 +10,35 @@ def get_employees():
         data = json.load(f)
         return data
 
-# @info Gets a random number of employees from a specific department
+
+def get_employee(eid):
+    with open('employees.json', 'r') as f:
+        data = json.load(f)
+        res = [emp for emp in data if emp["EID"] == int(eid)]
+        return res[0]
+
+
+@app.route('/api/v1')
+def hello():
+    return "<h1>Welcome to the Skid API</h1>"
+
+
+# @info Gets all of the employees
+# @access Public
+@app.route('/api/v1/employees', methods=['GET'])
+def get_all_employees():
+    data = get_employees()
+    return jsonify(data)
+
+
+# @info Grabs one employee's information
+# @access Public
+@app.route('/api/v1/employees/<EID>')
+def get_single_employee(EID):
+    return jsonify(get_employee(EID))
+
+
+# @info Gets all employees from a specific department
 # @access Public
 @app.route("/api/v1/employees/department", methods=['GET'])
 def get_department_employees():
