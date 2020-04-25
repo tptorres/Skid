@@ -1,6 +1,8 @@
 import json
+from collections import OrderedDict
 from flask import Flask, jsonify, request
 app = Flask(__name__)
+app.config["JSON_SORT_KEYS"] = False
 
 # Helper functions for routes
 
@@ -17,19 +19,11 @@ def get_employee(eid):
         res = [emp for emp in data if emp["EID"] == int(eid)]
         return res[0]
 
-
-@app.route('/api/v1')
-def hello():
-    return "<h1>Welcome to the Skid API</h1>"
-
-
 # @info Gets all of the employees
 # @access Public
 @app.route('/api/v1/employees', methods=['GET'])
 def get_all_employees():
-    data = get_employees()
-    return jsonify(data)
-
+    return jsonify(get_employees())
 
 # @info Grabs one employee's information
 # @access Public
