@@ -13,10 +13,10 @@ def get_employees():
         return data
 
 
-def get_employee(eid):
+def get_employee(id):
     with open('employees.json', 'r') as f:
         data = json.load(f)
-        res = [emp for emp in data if emp["EID"] == int(eid)]
+        res = [emp for emp in data if emp["id"] == int(id)]
         return res[0]
 
 # @info Gets all of the employees
@@ -28,8 +28,8 @@ def get_all_employees():
 # @info Grabs one employee's information
 # @access Public
 @app.route('/api/v1/employees/<EID>')
-def get_single_employee(EID):
-    return jsonify(get_employee(EID))
+def get_single_employee(id):
+    return jsonify(get_employee(id))
 
 
 # @info Gets all employees from a specific department
