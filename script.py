@@ -39,9 +39,9 @@ def writeToFile(girls, boys):
                            "illustrator": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise.",
                            "indesign": "Used to be a graphic designer so if anybody needs help with graphics, bang my line.",
                            "public_speaking": "Can help people prepare for any presentations, just email me!",
-                           "python": "If anybody is learning Python or just needs help with a project or piece of code, slack me!",
+                           "python": "If anybody is learning Python or just needs help with a project or piece of code, contact me!",
                            "c++": "If anybody is learning a new language and its C++ for some reason, hit me up!",
-                           "frontend": "If anybody is working on web devlopment and need help with the frontend, feel free to slack me."}
+                           "frontend": "If anybody is working on web development and needs help with the frontend, feel free to email me me."}
 
     with open("employees.json", "w+") as file:
         for name in girls[:50]:
