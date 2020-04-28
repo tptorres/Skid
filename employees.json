@@ -2,27 +2,35 @@
   {
     "id": 1,
     "name": "Olivia",
-    "email": "Olivia583@hotmail.com",
-    "department": "marketing",
-    "phone": "9977938433",
+    "email": "Olivia431@hotmail.com",
+    "department": "sales",
+    "phone": "3475053830",
     "skills": [
       {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
       },
       {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+      },
+      {
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
       }
     ]
   },
   {
     "id": 2,
     "name": "Amelia",
-    "email": "Amelia518@hotmail.com",
+    "email": "Amelia768@gmail.com",
     "department": "quality_assurance",
-    "phone": "4255493851",
+    "phone": "4089939815",
     "skills": [
+      {
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+      },
       {
         "skill": "public_speaking",
         "description": "Can help people prepare for any presentations, just email me!"
@@ -32,31 +40,18 @@
   {
     "id": 3,
     "name": "Isla",
-    "email": "Isla271@gmail.com",
-    "department": "human_resources",
-    "phone": "9340680481",
+    "email": "Isla107@skidmail.com",
+    "department": "quality_assurance",
+    "phone": "9503207595",
     "skills": [
       {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
       },
       {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
       },
-      {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Ava",
-    "email": "Ava146@outlook.com",
-    "department": "sales",
-    "phone": "7338284612",
-    "skills": [
       {
         "skill": "illustrator",
         "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
@@ -64,33 +59,76 @@
     ]
   },
   {
-    "id": 5,
-    "name": "Emily",
-    "email": "Emily602@gmail.com",
-    "department": "engineering",
-    "phone": "9967914911",
+    "id": 4,
+    "name": "Ava",
+    "email": "Ava366@yahoo.com",
+    "department": "operations",
+    "phone": "7106912517",
     "skills": [
       {
         "skill": "c++",
         "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Emily",
+    "email": "Emily105@outlook.com",
+    "department": "operations",
+    "phone": "8788497495",
+    "skills": [
+      {
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
       },
       {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+      },
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
       }
     ]
   },
   {
     "id": 6,
     "name": "Sophia",
-    "email": "Sophia762@gmail.com",
-    "department": "sales",
-    "phone": "2465679212",
+    "email": "Sophia899@skidmail.com",
+    "department": "finance",
+    "phone": "8640337545",
     "skills": [
       {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
       },
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Grace",
+    "email": "Grace454@yahoo.com",
+    "department": "operations",
+    "phone": "4947639847",
+    "skills": [
+      {
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mia",
+    "email": "Mia700@skidmail.com",
+    "department": "engineering",
+    "phone": "2860962070",
+    "skills": [
       {
         "skill": "indesign",
         "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
@@ -102,54 +140,12 @@
     ]
   },
   {
-    "id": 7,
-    "name": "Grace",
-    "email": "Grace776@outlook.com",
-    "department": "engineering",
-    "phone": "0978590650",
-    "skills": [
-      {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
-      },
-      {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
-      },
-      {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Mia",
-    "email": "Mia451@skidmail.com",
-    "department": "finance",
-    "phone": "3973357994",
-    "skills": [
-      {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
-      },
-      {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
-      }
-    ]
-  },
-  {
     "id": 9,
     "name": "Poppy",
-    "email": "Poppy224@gmail.com",
-    "department": "engineering",
-    "phone": "6919881217",
+    "email": "Poppy696@skidmail.com",
+    "department": "quality_assurance",
+    "phone": "4184383397",
     "skills": [
-      {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
-      },
       {
         "skill": "excel",
         "description": "Have worked with excel for years and if anybody needs help, please contact."
@@ -159,43 +155,13 @@
   {
     "id": 10,
     "name": "Ella",
-    "email": "Ella97@hotmail.com",
-    "department": "marketing",
-    "phone": "1293222760",
+    "email": "Ella703@gmail.com",
+    "department": "finance",
+    "phone": "7428840417",
     "skills": [
-      {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
-      },
       {
         "skill": "illustrator",
         "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "name": "Lily",
-    "email": "Lily772@gmail.com",
-    "department": "sales",
-    "phone": "8998736876",
-    "skills": [
-      {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "name": "Evie",
-    "email": "Evie500@yahoo.com",
-    "department": "sales",
-    "phone": "4039414786",
-    "skills": [
-      {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
       },
       {
         "skill": "azure",
@@ -204,12 +170,71 @@
     ]
   },
   {
+    "id": 11,
+    "name": "Lily",
+    "email": "Lily136@gmail.com",
+    "department": "quality_assurance",
+    "phone": "0784543552",
+    "skills": [
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      },
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      },
+      {
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Evie",
+    "email": "Evie557@hotmail.com",
+    "department": "operations",
+    "phone": "0764827765",
+    "skills": [
+      {
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+      },
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      }
+    ]
+  },
+  {
     "id": 13,
     "name": "Isabella",
-    "email": "Isabella588@yahoo.com",
+    "email": "Isabella84@outlook.com",
     "department": "operations",
-    "phone": "5698907852",
+    "phone": "0471811942",
     "skills": [
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      },
+      {
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Sophie",
+    "email": "Sophie441@yahoo.com",
+    "department": "quality_assurance",
+    "phone": "9783908906",
+    "skills": [
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      },
       {
         "skill": "frontend",
         "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
@@ -217,25 +242,16 @@
     ]
   },
   {
-    "id": 14,
-    "name": "Sophie",
-    "email": "Sophie605@gmail.com",
-    "department": "engineering",
-    "phone": "5760502559",
-    "skills": [
-      {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
-      }
-    ]
-  },
-  {
     "id": 15,
     "name": "Ivy",
-    "email": "Ivy417@hotmail.com",
-    "department": "operations",
-    "phone": "9872037040",
+    "email": "Ivy543@hotmail.com",
+    "department": "engineering",
+    "phone": "4899509695",
     "skills": [
+      {
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+      },
       {
         "skill": "photoshop",
         "description": "Have worked with it for years and can manipulate every image possible. Let me know."
@@ -245,35 +261,10 @@
   {
     "id": 16,
     "name": "Freya",
-    "email": "Freya682@skidmail.com",
-    "department": "human_resources",
-    "phone": "2536217969",
-    "skills": [
-      {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
-      },
-      {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "name": "Harper",
-    "email": "Harper479@outlook.com",
+    "email": "Freya76@hotmail.com",
     "department": "sales",
-    "phone": "3293663351",
+    "phone": "3079629268",
     "skills": [
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
-      {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
-      },
       {
         "skill": "c++",
         "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
@@ -281,15 +272,36 @@
     ]
   },
   {
-    "id": 18,
-    "name": "Willow",
-    "email": "Willow765@outlook.com",
-    "department": "marketing",
-    "phone": "4637400073",
+    "id": 17,
+    "name": "Harper",
+    "email": "Harper519@skidmail.com",
+    "department": "human_resources",
+    "phone": "9296595606",
     "skills": [
       {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+      },
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Willow",
+    "email": "Willow160@hotmail.com",
+    "department": "quality_assurance",
+    "phone": "5953268494",
+    "skills": [
+      {
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+      },
+      {
+        "skill": "c++",
+        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
       },
       {
         "skill": "illustrator",
@@ -300,196 +312,90 @@
   {
     "id": 19,
     "name": "Charlotte",
-    "email": "Charlotte91@gmail.com",
-    "department": "operations",
-    "phone": "1397029987",
+    "email": "Charlotte284@hotmail.com",
+    "department": "sales",
+    "phone": "9627644084",
     "skills": [
       {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+      },
+      {
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
       }
     ]
   },
   {
     "id": 20,
     "name": "Jessica",
-    "email": "Jessica929@gmail.com",
-    "department": "engineering",
-    "phone": "4061754209",
+    "email": "Jessica384@skidmail.com",
+    "department": "quality_assurance",
+    "phone": "4144750171",
     "skills": [
       {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
       }
     ]
   },
   {
     "id": 21,
     "name": "Rosie",
-    "email": "Rosie80@hotmail.com",
+    "email": "Rosie345@gmail.com",
     "department": "finance",
-    "phone": "1918273760",
+    "phone": "6374678604",
     "skills": [
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
       {
         "skill": "excel",
         "description": "Have worked with excel for years and if anybody needs help, please contact."
       },
       {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+      },
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
       }
     ]
   },
   {
     "id": 22,
     "name": "Daisy",
-    "email": "Daisy437@skidmail.com",
-    "department": "operations",
-    "phone": "9075280272",
+    "email": "Daisy854@hotmail.com",
+    "department": "quality_assurance",
+    "phone": "3378497103",
     "skills": [
       {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
-      {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
-      },
-      {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
+        "skill": "c++",
+        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
       }
     ]
   },
   {
     "id": 23,
     "name": "Alice",
-    "email": "Alice856@gmail.com",
-    "department": "finance",
-    "phone": "4578063253",
+    "email": "Alice260@outlook.com",
+    "department": "engineering",
+    "phone": "5078075878",
     "skills": [
       {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+        "skill": "c++",
+        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
       }
     ]
   },
   {
     "id": 24,
     "name": "Elsie",
-    "email": "Elsie165@hotmail.com",
-    "department": "marketing",
-    "phone": "8902504015",
-    "skills": [
-      {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      }
-    ]
-  },
-  {
-    "id": 25,
-    "name": "Sienna",
-    "email": "Sienna713@yahoo.com",
+    "email": "Elsie837@gmail.com",
     "department": "engineering",
-    "phone": "7453854255",
+    "phone": "1879003942",
     "skills": [
       {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "name": "Florence",
-    "email": "Florence898@outlook.com",
-    "department": "quality_assurance",
-    "phone": "3268388235",
-    "skills": [
-      {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
-      },
-      {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      }
-    ]
-  },
-  {
-    "id": 27,
-    "name": "Evelyn",
-    "email": "Evelyn780@yahoo.com",
-    "department": "operations",
-    "phone": "0183117779",
-    "skills": [
-      {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
-      }
-    ]
-  },
-  {
-    "id": 28,
-    "name": "Phoebe",
-    "email": "Phoebe344@skidmail.com",
-    "department": "human_resources",
-    "phone": "8596066230",
-    "skills": [
-      {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
-      },
-      {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
-      },
-      {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
-      }
-    ]
-  },
-  {
-    "id": 29,
-    "name": "Aria",
-    "email": "Aria350@outlook.com",
-    "department": "marketing",
-    "phone": "3910808269",
-    "skills": [
-      {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
-      }
-    ]
-  },
-  {
-    "id": 30,
-    "name": "Ruby",
-    "email": "Ruby84@skidmail.com",
-    "department": "sales",
-    "phone": "2099305660",
-    "skills": [
-      {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
       },
       {
         "skill": "c++",
@@ -498,50 +404,51 @@
     ]
   },
   {
-    "id": 31,
-    "name": "Isabelle",
-    "email": "Isabelle621@skidmail.com",
+    "id": 25,
+    "name": "Sienna",
+    "email": "Sienna886@outlook.com",
     "department": "finance",
-    "phone": "5427682291",
+    "phone": "3965476639",
     "skills": [
       {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
-      {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
       }
     ]
   },
   {
-    "id": 32,
-    "name": "Esme",
-    "email": "Esme377@yahoo.com",
-    "department": "human_resources",
-    "phone": "7048512437",
+    "id": 26,
+    "name": "Florence",
+    "email": "Florence564@gmail.com",
+    "department": "engineering",
+    "phone": "7486657496",
     "skills": [
       {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
       }
     ]
   },
   {
-    "id": 33,
-    "name": "Scarlett",
-    "email": "Scarlett65@outlook.com",
-    "department": "finance",
-    "phone": "5977539862",
+    "id": 27,
+    "name": "Evelyn",
+    "email": "Evelyn151@outlook.com",
+    "department": "sales",
+    "phone": "1240695805",
     "skills": [
       {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
-      },
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Phoebe",
+    "email": "Phoebe266@hotmail.com",
+    "department": "operations",
+    "phone": "9214902951",
+    "skills": [
       {
         "skill": "python",
         "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
@@ -549,19 +456,15 @@
     ]
   },
   {
-    "id": 34,
-    "name": "Matilda",
-    "email": "Matilda424@outlook.com",
-    "department": "human_resources",
-    "phone": "5474596893",
+    "id": 29,
+    "name": "Aria",
+    "email": "Aria96@hotmail.com",
+    "department": "engineering",
+    "phone": "0997330620",
     "skills": [
       {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
-      {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
+        "skill": "c++",
+        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
       },
       {
         "skill": "public_speaking",
@@ -570,12 +473,97 @@
     ]
   },
   {
+    "id": 30,
+    "name": "Ruby",
+    "email": "Ruby896@yahoo.com",
+    "department": "engineering",
+    "phone": "8834982613",
+    "skills": [
+      {
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+      },
+      {
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Isabelle",
+    "email": "Isabelle805@outlook.com",
+    "department": "quality_assurance",
+    "phone": "8391803009",
+    "skills": [
+      {
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Esme",
+    "email": "Esme481@gmail.com",
+    "department": "quality_assurance",
+    "phone": "7818171143",
+    "skills": [
+      {
+        "skill": "c++",
+        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+      },
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Scarlett",
+    "email": "Scarlett97@hotmail.com",
+    "department": "engineering",
+    "phone": "5160956841",
+    "skills": [
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      },
+      {
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+      },
+      {
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Matilda",
+    "email": "Matilda556@yahoo.com",
+    "department": "finance",
+    "phone": "9377625029",
+    "skills": [
+      {
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+      }
+    ]
+  },
+  {
     "id": 35,
     "name": "Sofia",
-    "email": "Sofia383@yahoo.com",
+    "email": "Sofia32@outlook.com",
     "department": "engineering",
-    "phone": "8446508563",
+    "phone": "8740871806",
     "skills": [
+      {
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
+      },
       {
         "skill": "indesign",
         "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
@@ -585,312 +573,325 @@
   {
     "id": 36,
     "name": "Millie",
-    "email": "Millie975@hotmail.com",
-    "department": "human_resources",
-    "phone": "6636192152",
+    "email": "Millie650@hotmail.com",
+    "department": "quality_assurance",
+    "phone": "2012535421",
     "skills": [
       {
         "skill": "frontend",
         "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+      },
+      {
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
       }
     ]
   },
   {
     "id": 37,
     "name": "Eva",
-    "email": "Eva896@gmail.com",
-    "department": "sales",
-    "phone": "7729753484",
+    "email": "Eva128@yahoo.com",
+    "department": "human_resources",
+    "phone": "1053272026",
     "skills": [
       {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
       },
       {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      },
+      {
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
       }
     ]
   },
   {
     "id": 38,
     "name": "Layla",
-    "email": "Layla855@yahoo.com",
-    "department": "sales",
-    "phone": "0865151057",
+    "email": "Layla64@gmail.com",
+    "department": "human_resources",
+    "phone": "2535803757",
     "skills": [
-      {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
-      },
       {
         "skill": "python",
         "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      },
+      {
+        "skill": "c++",
+        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
       }
     ]
   },
   {
     "id": 39,
     "name": "Chloe",
-    "email": "Chloe868@skidmail.com",
-    "department": "marketing",
-    "phone": "4265746164",
+    "email": "Chloe70@hotmail.com",
+    "department": "finance",
+    "phone": "7881298298",
     "skills": [
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      },
       {
         "skill": "frontend",
         "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
       },
       {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
-      },
-      {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
       }
     ]
   },
   {
     "id": 40,
     "name": "Luna",
-    "email": "Luna963@hotmail.com",
-    "department": "quality_assurance",
-    "phone": "9162011788",
+    "email": "Luna936@outlook.com",
+    "department": "engineering",
+    "phone": "2071484396",
     "skills": [
       {
         "skill": "public_speaking",
         "description": "Can help people prepare for any presentations, just email me!"
-      },
-      {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
       }
     ]
   },
   {
     "id": 41,
     "name": "Maisie",
-    "email": "Maisie463@outlook.com",
-    "department": "finance",
-    "phone": "2226682410",
+    "email": "Maisie106@gmail.com",
+    "department": "human_resources",
+    "phone": "5578072976",
     "skills": [
       {
         "skill": "public_speaking",
         "description": "Can help people prepare for any presentations, just email me!"
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
-      {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
       }
     ]
   },
   {
     "id": 42,
     "name": "Lucy",
-    "email": "Lucy649@gmail.com",
-    "department": "human_resources",
-    "phone": "7394640213",
+    "email": "Lucy880@yahoo.com",
+    "department": "quality_assurance",
+    "phone": "3828411447",
     "skills": [
       {
         "skill": "photoshop",
         "description": "Have worked with it for years and can manipulate every image possible. Let me know."
       },
       {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
       }
     ]
   },
   {
     "id": 43,
     "name": "Erin",
-    "email": "Erin310@gmail.com",
-    "department": "human_resources",
-    "phone": "7265603595",
+    "email": "Erin462@skidmail.com",
+    "department": "operations",
+    "phone": "3481192736",
     "skills": [
       {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
       }
     ]
   },
   {
     "id": 44,
     "name": "Eliza",
-    "email": "Eliza297@hotmail.com",
-    "department": "operations",
-    "phone": "5058385531",
+    "email": "Eliza5@outlook.com",
+    "department": "sales",
+    "phone": "7649623848",
     "skills": [
       {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
       },
       {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
-      },
-      {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
       }
     ]
   },
   {
     "id": 45,
     "name": "Ellie",
-    "email": "Ellie983@gmail.com",
-    "department": "finance",
-    "phone": "1875221340",
+    "email": "Ellie350@outlook.com",
+    "department": "operations",
+    "phone": "8987763960",
     "skills": [
       {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
-      },
-      {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
-      },
-      {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
       }
     ]
   },
   {
     "id": 46,
     "name": "Mila",
-    "email": "Mila33@gmail.com",
-    "department": "quality_assurance",
-    "phone": "5050421905",
+    "email": "Mila381@outlook.com",
+    "department": "engineering",
+    "phone": "2840090971",
     "skills": [
       {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+      },
+      {
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
+      },
+      {
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
       }
     ]
   },
   {
     "id": 47,
     "name": "Imogen",
-    "email": "Imogen354@skidmail.com",
-    "department": "operations",
-    "phone": "1451839678",
+    "email": "Imogen711@gmail.com",
+    "department": "engineering",
+    "phone": "1062650455",
     "skills": [
       {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
       }
     ]
   },
   {
     "id": 48,
     "name": "Bella",
-    "email": "Bella105@hotmail.com",
+    "email": "Bella587@hotmail.com",
     "department": "finance",
-    "phone": "4400237409",
+    "phone": "7338267222",
     "skills": [
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      },
       {
         "skill": "public_speaking",
         "description": "Can help people prepare for any presentations, just email me!"
+      },
+      {
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
       }
     ]
   },
   {
     "id": 49,
     "name": "Lola",
-    "email": "Lola814@hotmail.com",
-    "department": "marketing",
-    "phone": "9619453171",
+    "email": "Lola177@outlook.com",
+    "department": "human_resources",
+    "phone": "7338509623",
     "skills": [
       {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
       }
     ]
   },
   {
     "id": 50,
     "name": "Molly",
-    "email": "Molly966@gmail.com",
-    "department": "sales",
-    "phone": "4692337529",
+    "email": "Molly986@hotmail.com",
+    "department": "human_resources",
+    "phone": "4498114705",
     "skills": [
       {
         "skill": "illustrator",
         "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
       },
       {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      },
+      {
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
       }
     ]
   },
   {
     "id": 51,
     "name": "Liam",
-    "email": "Liam492@yahoo.com",
-    "department": "quality_assurance",
-    "phone": "6321329880",
+    "email": "Liam632@gmail.com",
+    "department": "operations",
+    "phone": "6883104086",
     "skills": [
+      {
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+      },
       {
         "skill": "c++",
         "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
-      },
-      {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
       }
     ]
   },
   {
     "id": 52,
     "name": "Noah",
-    "email": "Noah880@yahoo.com",
-    "department": "finance",
-    "phone": "6219662214",
+    "email": "Noah35@gmail.com",
+    "department": "operations",
+    "phone": "0893854214",
     "skills": [
-      {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
-      },
-      {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
-      },
       {
         "skill": "excel",
         "description": "Have worked with excel for years and if anybody needs help, please contact."
+      },
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
       }
     ]
   },
   {
     "id": 53,
     "name": "William",
-    "email": "William913@skidmail.com",
-    "department": "sales",
-    "phone": "9716773902",
+    "email": "William605@yahoo.com",
+    "department": "quality_assurance",
+    "phone": "6250837908",
     "skills": [
       {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+      },
+      {
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
       }
     ]
   },
   {
     "id": 54,
     "name": "James",
-    "email": "James322@gmail.com",
-    "department": "marketing",
-    "phone": "2854283718",
+    "email": "James46@skidmail.com",
+    "department": "engineering",
+    "phone": "2461470042",
     "skills": [
       {
         "skill": "excel",
         "description": "Have worked with excel for years and if anybody needs help, please contact."
-      },
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Oliver",
+    "email": "Oliver869@outlook.com",
+    "department": "engineering",
+    "phone": "8140847634",
+    "skills": [
       {
         "skill": "illustrator",
         "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
@@ -902,29 +903,80 @@
     ]
   },
   {
-    "id": 55,
-    "name": "Oliver",
-    "email": "Oliver375@hotmail.com",
+    "id": 56,
+    "name": "Benjamin",
+    "email": "Benjamin193@gmail.com",
     "department": "quality_assurance",
-    "phone": "5280772762",
+    "phone": "3031304442",
     "skills": [
       {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
       },
       {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
       }
     ]
   },
   {
-    "id": 56,
-    "name": "Benjamin",
-    "email": "Benjamin544@outlook.com",
-    "department": "operations",
-    "phone": "9837848164",
+    "id": 57,
+    "name": "Elijah",
+    "email": "Elijah774@hotmail.com",
+    "department": "human_resources",
+    "phone": "1059560791",
     "skills": [
+      {
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Lucas",
+    "email": "Lucas160@gmail.com",
+    "department": "human_resources",
+    "phone": "2306816261",
+    "skills": [
+      {
+        "skill": "c++",
+        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+      },
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      },
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Mason",
+    "email": "Mason875@skidmail.com",
+    "department": "finance",
+    "phone": "6794945019",
+    "skills": [
+      {
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Logan",
+    "email": "Logan136@skidmail.com",
+    "department": "quality_assurance",
+    "phone": "9302467613",
+    "skills": [
+      {
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+      },
       {
         "skill": "frontend",
         "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
@@ -932,6 +984,36 @@
       {
         "skill": "azure",
         "description": "Great at working on databases with this software."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Alexander",
+    "email": "Alexander917@hotmail.com",
+    "department": "quality_assurance",
+    "phone": "6139263405",
+    "skills": [
+      {
+        "skill": "c++",
+        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+      },
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Ethan",
+    "email": "Ethan239@skidmail.com",
+    "department": "sales",
+    "phone": "5019611534",
+    "skills": [
+      {
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
       },
       {
         "skill": "c++",
@@ -940,173 +1022,71 @@
     ]
   },
   {
-    "id": 57,
-    "name": "Elijah",
-    "email": "Elijah595@gmail.com",
-    "department": "human_resources",
-    "phone": "2555652084",
+    "id": 63,
+    "name": "Jacob",
+    "email": "Jacob97@outlook.com",
+    "department": "engineering",
+    "phone": "9179592850",
     "skills": [
-      {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
-      }
-    ]
-  },
-  {
-    "id": 58,
-    "name": "Lucas",
-    "email": "Lucas142@gmail.com",
-    "department": "marketing",
-    "phone": "0148199953",
-    "skills": [
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      }
-    ]
-  },
-  {
-    "id": 59,
-    "name": "Mason",
-    "email": "Mason240@yahoo.com",
-    "department": "human_resources",
-    "phone": "5087806122",
-    "skills": [
-      {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
-      },
       {
         "skill": "public_speaking",
         "description": "Can help people prepare for any presentations, just email me!"
-      }
-    ]
-  },
-  {
-    "id": 60,
-    "name": "Logan",
-    "email": "Logan836@gmail.com",
-    "department": "human_resources",
-    "phone": "4520343102",
-    "skills": [
-      {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
       },
       {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      }
-    ]
-  },
-  {
-    "id": 61,
-    "name": "Alexander",
-    "email": "Alexander82@gmail.com",
-    "department": "finance",
-    "phone": "1855069556",
-    "skills": [
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
-      {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
       },
       {
         "skill": "photoshop",
         "description": "Have worked with it for years and can manipulate every image possible. Let me know."
-      }
-    ]
-  },
-  {
-    "id": 62,
-    "name": "Ethan",
-    "email": "Ethan435@outlook.com",
-    "department": "engineering",
-    "phone": "9928955194",
-    "skills": [
-      {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
-      },
-      {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
-      }
-    ]
-  },
-  {
-    "id": 63,
-    "name": "Jacob",
-    "email": "Jacob279@hotmail.com",
-    "department": "operations",
-    "phone": "5190978191",
-    "skills": [
-      {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
-      },
-      {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
-      },
-      {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
       }
     ]
   },
   {
     "id": 64,
     "name": "Michael",
-    "email": "Michael270@hotmail.com",
-    "department": "human_resources",
-    "phone": "6089925069",
+    "email": "Michael54@outlook.com",
+    "department": "engineering",
+    "phone": "8979389466",
     "skills": [
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      },
       {
         "skill": "photoshop",
         "description": "Have worked with it for years and can manipulate every image possible. Let me know."
-      },
-      {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
-      },
-      {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
       }
     ]
   },
   {
     "id": 65,
     "name": "Daniel",
-    "email": "Daniel796@gmail.com",
-    "department": "human_resources",
-    "phone": "0753588842",
+    "email": "Daniel251@skidmail.com",
+    "department": "finance",
+    "phone": "3094316676",
     "skills": [
       {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
-      },
-      {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
       }
     ]
   },
   {
     "id": 66,
     "name": "Henry",
-    "email": "Henry984@yahoo.com",
-    "department": "marketing",
-    "phone": "3703345740",
+    "email": "Henry308@skidmail.com",
+    "department": "finance",
+    "phone": "6933191263",
     "skills": [
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      },
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      },
       {
         "skill": "c++",
         "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
@@ -1116,94 +1096,74 @@
   {
     "id": 67,
     "name": "Jackson",
-    "email": "Jackson998@skidmail.com",
-    "department": "human_resources",
-    "phone": "3076938273",
+    "email": "Jackson851@outlook.com",
+    "department": "quality_assurance",
+    "phone": "7000830291",
     "skills": [
       {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
-      },
-      {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
-      },
-      {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
       }
     ]
   },
   {
     "id": 68,
     "name": "Sebastian",
-    "email": "Sebastian737@outlook.com",
-    "department": "sales",
-    "phone": "8154114918",
+    "email": "Sebastian772@gmail.com",
+    "department": "engineering",
+    "phone": "3842595159",
     "skills": [
       {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
       },
       {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
-      {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
       }
     ]
   },
   {
     "id": 69,
     "name": "Aiden",
-    "email": "Aiden377@gmail.com",
-    "department": "human_resources",
-    "phone": "0440921219",
+    "email": "Aiden746@skidmail.com",
+    "department": "quality_assurance",
+    "phone": "0005987575",
     "skills": [
-      {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
-      },
       {
         "skill": "c++",
         "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+      },
+      {
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+      },
+      {
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
       }
     ]
   },
   {
     "id": 70,
     "name": "Matthew",
-    "email": "Matthew169@outlook.com",
-    "department": "marketing",
-    "phone": "7204704682",
+    "email": "Matthew767@outlook.com",
+    "department": "sales",
+    "phone": "3138133524",
     "skills": [
       {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
-      },
-      {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
-      },
-      {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
       }
     ]
   },
   {
     "id": 71,
     "name": "Samuel",
-    "email": "Samuel493@gmail.com",
-    "department": "quality_assurance",
-    "phone": "1778919139",
+    "email": "Samuel534@yahoo.com",
+    "department": "sales",
+    "phone": "2329176560",
     "skills": [
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
       {
         "skill": "photoshop",
         "description": "Have worked with it for years and can manipulate every image possible. Let me know."
@@ -1213,315 +1173,266 @@
   {
     "id": 72,
     "name": "David",
-    "email": "David693@hotmail.com",
-    "department": "human_resources",
-    "phone": "5066037347",
+    "email": "David169@outlook.com",
+    "department": "quality_assurance",
+    "phone": "0089029320",
     "skills": [
       {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+      },
+      {
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
       }
     ]
   },
   {
     "id": 73,
     "name": "Joseph",
-    "email": "Joseph46@gmail.com",
-    "department": "marketing",
-    "phone": "5993145552",
+    "email": "Joseph107@hotmail.com",
+    "department": "engineering",
+    "phone": "0748062909",
     "skills": [
       {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
       },
       {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
       },
       {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+        "skill": "c++",
+        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
       }
     ]
   },
   {
     "id": 74,
     "name": "Carter",
-    "email": "Carter77@hotmail.com",
-    "department": "human_resources",
-    "phone": "4096883559",
+    "email": "Carter198@gmail.com",
+    "department": "operations",
+    "phone": "9930799451",
     "skills": [
       {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+      },
+      {
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
       }
     ]
   },
   {
     "id": 75,
     "name": "Owen",
-    "email": "Owen6@yahoo.com",
+    "email": "Owen19@gmail.com",
     "department": "operations",
-    "phone": "2098380022",
+    "phone": "3140823835",
     "skills": [
       {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
       },
       {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
-      },
-      {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
       }
     ]
   },
   {
     "id": 76,
     "name": "Wyatt",
-    "email": "Wyatt424@hotmail.com",
-    "department": "finance",
-    "phone": "4946727340",
+    "email": "Wyatt508@yahoo.com",
+    "department": "sales",
+    "phone": "7271328211",
     "skills": [
       {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
-      {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
       }
     ]
   },
   {
     "id": 77,
     "name": "John",
-    "email": "John407@hotmail.com",
-    "department": "finance",
-    "phone": "1745423672",
+    "email": "John687@outlook.com",
+    "department": "human_resources",
+    "phone": "3845042744",
     "skills": [
       {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      },
+      {
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
+      },
+      {
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
       }
     ]
   },
   {
     "id": 78,
     "name": "Jack",
-    "email": "Jack963@gmail.com",
-    "department": "finance",
-    "phone": "5899634713",
+    "email": "Jack504@skidmail.com",
+    "department": "operations",
+    "phone": "4418702820",
     "skills": [
       {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
-      },
-      {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
       }
     ]
   },
   {
     "id": 79,
     "name": "Luke",
-    "email": "Luke907@skidmail.com",
-    "department": "sales",
-    "phone": "2853604323",
+    "email": "Luke606@skidmail.com",
+    "department": "operations",
+    "phone": "8102634397",
     "skills": [
       {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
-      },
-      {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
       }
     ]
   },
   {
     "id": 80,
     "name": "Jayden",
-    "email": "Jayden957@skidmail.com",
-    "department": "quality_assurance",
-    "phone": "7867260394",
+    "email": "Jayden525@hotmail.com",
+    "department": "finance",
+    "phone": "7013478918",
     "skills": [
-      {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
-      },
       {
         "skill": "photoshop",
         "description": "Have worked with it for years and can manipulate every image possible. Let me know."
       },
       {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
       }
     ]
   },
   {
     "id": 81,
     "name": "Dylan",
-    "email": "Dylan290@yahoo.com",
-    "department": "operations",
-    "phone": "9949653715",
+    "email": "Dylan321@hotmail.com",
+    "department": "quality_assurance",
+    "phone": "7176901302",
     "skills": [
       {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
       }
     ]
   },
   {
     "id": 82,
     "name": "Grayson",
-    "email": "Grayson730@gmail.com",
-    "department": "sales",
-    "phone": "5218724802",
+    "email": "Grayson131@outlook.com",
+    "department": "operations",
+    "phone": "1223154511",
     "skills": [
       {
         "skill": "photoshop",
         "description": "Have worked with it for years and can manipulate every image possible. Let me know."
-      },
-      {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
       }
     ]
   },
   {
     "id": 83,
     "name": "Levi",
-    "email": "Levi921@outlook.com",
-    "department": "operations",
-    "phone": "6695797488",
+    "email": "Levi385@hotmail.com",
+    "department": "finance",
+    "phone": "6834776546",
     "skills": [
       {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
       },
       {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
+      },
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
       }
     ]
   },
   {
     "id": 84,
     "name": "Issac",
-    "email": "Issac160@outlook.com",
+    "email": "Issac221@skidmail.com",
     "department": "sales",
-    "phone": "3110074209",
+    "phone": "3292420746",
     "skills": [
       {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
       }
     ]
   },
   {
     "id": 85,
     "name": "Gabriel",
-    "email": "Gabriel870@gmail.com",
-    "department": "finance",
-    "phone": "8826949908",
+    "email": "Gabriel389@yahoo.com",
+    "department": "operations",
+    "phone": "2130440909",
     "skills": [
       {
-        "skill": "excel",
-        "description": "Have worked with excel for years and if anybody needs help, please contact."
-      },
-      {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
       }
     ]
   },
   {
     "id": 86,
     "name": "Julian",
-    "email": "Julian139@gmail.com",
-    "department": "human_resources",
-    "phone": "6207582656",
+    "email": "Julian981@hotmail.com",
+    "department": "sales",
+    "phone": "5495107322",
     "skills": [
       {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
-      },
-      {
-        "skill": "public_speaking",
-        "description": "Can help people prepare for any presentations, just email me!"
+        "skill": "excel",
+        "description": "Have worked with excel for years and if anybody needs help, please contact."
       }
     ]
   },
   {
     "id": 87,
     "name": "Mateo",
-    "email": "Mateo836@yahoo.com",
-    "department": "human_resources",
-    "phone": "0698205114",
+    "email": "Mateo734@skidmail.com",
+    "department": "quality_assurance",
+    "phone": "8445818313",
     "skills": [
       {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
       },
       {
         "skill": "c++",
         "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
       },
       {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
       }
     ]
   },
   {
     "id": 88,
     "name": "Anthony",
-    "email": "Anthony391@gmail.com",
+    "email": "Anthony160@hotmail.com",
     "department": "quality_assurance",
-    "phone": "8831710099",
+    "phone": "4537474356",
     "skills": [
-      {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
-      {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
-      }
-    ]
-  },
-  {
-    "id": 89,
-    "name": "Jaxon",
-    "email": "Jaxon842@skidmail.com",
-    "department": "human_resources",
-    "phone": "3458569692",
-    "skills": [
-      {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
-      },
       {
         "skill": "public_speaking",
         "description": "Can help people prepare for any presentations, just email me!"
@@ -1529,156 +1440,177 @@
     ]
   },
   {
-    "id": 90,
-    "name": "Lincoln",
-    "email": "Lincoln296@yahoo.com",
-    "department": "engineering",
-    "phone": "5061773843",
+    "id": 89,
+    "name": "Jaxon",
+    "email": "Jaxon969@gmail.com",
+    "department": "human_resources",
+    "phone": "6435856061",
     "skills": [
       {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
+      },
+      {
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Lincoln",
+    "email": "Lincoln465@gmail.com",
+    "department": "sales",
+    "phone": "5529162361",
+    "skills": [
+      {
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
       }
     ]
   },
   {
     "id": 91,
     "name": "Joshua",
-    "email": "Joshua981@hotmail.com",
+    "email": "Joshua304@yahoo.com",
     "department": "engineering",
-    "phone": "2742750150",
-    "skills": [
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
-      {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
-      }
-    ]
-  },
-  {
-    "id": 92,
-    "name": "Christopher",
-    "email": "Christopher926@gmail.com",
-    "department": "engineering",
-    "phone": "0519433345",
-    "skills": [
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
-      {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
-      },
-      {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
-      }
-    ]
-  },
-  {
-    "id": 93,
-    "name": "Andrew",
-    "email": "Andrew438@yahoo.com",
-    "department": "engineering",
-    "phone": "2342798996",
-    "skills": [
-      {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
-      },
-      {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      }
-    ]
-  },
-  {
-    "id": 94,
-    "name": "Theodore",
-    "email": "Theodore65@skidmail.com",
-    "department": "sales",
-    "phone": "5502294641",
-    "skills": [
-      {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      }
-    ]
-  },
-  {
-    "id": 95,
-    "name": "Caleb",
-    "email": "Caleb546@yahoo.com",
-    "department": "finance",
-    "phone": "9636843678",
-    "skills": [
-      {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
-      },
-      {
-        "skill": "azure",
-        "description": "Great at working on databases with this software."
-      }
-    ]
-  },
-  {
-    "id": 96,
-    "name": "Ryan",
-    "email": "Ryan378@yahoo.com",
-    "department": "engineering",
-    "phone": "8738568859",
+    "phone": "4278992605",
     "skills": [
       {
         "skill": "indesign",
         "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
       },
       {
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Christopher",
+    "email": "Christopher201@gmail.com",
+    "department": "engineering",
+    "phone": "4240867498",
+    "skills": [
+      {
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+      },
+      {
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+      },
+      {
+        "skill": "c++",
+        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Andrew",
+    "email": "Andrew997@skidmail.com",
+    "department": "operations",
+    "phone": "0276440980",
+    "skills": [
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      },
+      {
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
+      },
+      {
+        "skill": "frontend",
+        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Theodore",
+    "email": "Theodore871@skidmail.com",
+    "department": "sales",
+    "phone": "5948927496",
+    "skills": [
+      {
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      },
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Caleb",
+    "email": "Caleb827@gmail.com",
+    "department": "human_resources",
+    "phone": "9257620520",
+    "skills": [
+      {
         "skill": "frontend",
         "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
       },
       {
-        "skill": "photoshop",
-        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
+        "skill": "public_speaking",
+        "description": "Can help people prepare for any presentations, just email me!"
+      },
+      {
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Ryan",
+    "email": "Ryan499@yahoo.com",
+    "department": "sales",
+    "phone": "1593633280",
+    "skills": [
+      {
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+      },
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
       }
     ]
   },
   {
     "id": 97,
     "name": "Asher",
-    "email": "Asher354@gmail.com",
-    "department": "operations",
-    "phone": "1815409137",
+    "email": "Asher860@hotmail.com",
+    "department": "quality_assurance",
+    "phone": "1332900390",
     "skills": [
       {
-        "skill": "frontend",
-        "description": "If anybody is working on web development and needs help with the frontend, feel free to email me me."
+        "skill": "indesign",
+        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+      },
+      {
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
       }
     ]
   },
   {
     "id": 98,
     "name": "Nathan",
-    "email": "Nathan288@gmail.com",
+    "email": "Nathan649@outlook.com",
     "department": "operations",
-    "phone": "3280861568",
+    "phone": "0669387390",
     "skills": [
+      {
+        "skill": "python",
+        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+      },
       {
         "skill": "excel",
         "description": "Have worked with excel for years and if anybody needs help, please contact."
@@ -1688,17 +1620,13 @@
   {
     "id": 99,
     "name": "Thomas",
-    "email": "Thomas740@skidmail.com",
-    "department": "human_resources",
-    "phone": "2779821262",
+    "email": "Thomas726@skidmail.com",
+    "department": "operations",
+    "phone": "1319807643",
     "skills": [
       {
-        "skill": "c++",
-        "description": "If anybody is learning a new language and its C++ for some reason, hit me up!"
-      },
-      {
-        "skill": "illustrator",
-        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
+        "skill": "photoshop",
+        "description": "Have worked with it for years and can manipulate every image possible. Let me know."
       },
       {
         "skill": "python",
@@ -1709,17 +1637,17 @@
   {
     "id": 100,
     "name": "Leo",
-    "email": "Leo337@gmail.com",
+    "email": "Leo377@hotmail.com",
     "department": "finance",
-    "phone": "9582679918",
+    "phone": "4224131401",
     "skills": [
       {
-        "skill": "python",
-        "description": "If anybody is learning Python or just needs help with a project or piece of code, contact me!"
+        "skill": "illustrator",
+        "description": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise."
       },
       {
-        "skill": "indesign",
-        "description": "Used to be a graphic designer so if anybody needs help with graphics, bang my line."
+        "skill": "azure",
+        "description": "Great at working on databases with this software."
       }
     ]
   }

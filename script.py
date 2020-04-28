@@ -27,7 +27,7 @@ def writeToFile(girls, boys):
     emails = ["@gmail.com", "@yahoo.com",
               "@hotmail.com", "@outlook.com", "@skidmail.com"]
 
-    departments = ["sales", "human_resources", "marketing",
+    departments = ["sales", "human_resources",
                    "engineering", "finance", "quality_assurance", "operations"]
 
     skills_arr = ["azure", "excel", "photoshop",
