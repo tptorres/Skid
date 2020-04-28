@@ -27,7 +27,7 @@ def get_all_employees():
 
 # @info Grabs one employee's information
 # @access Public
-@app.route('/api/v1/employees/<EID>')
+@app.route('/api/v1/employees/<id>')
 def get_single_employee(id):
     return jsonify(get_employee(id))
 
