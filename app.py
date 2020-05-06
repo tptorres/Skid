@@ -4,8 +4,6 @@ from flask import Flask, jsonify, request
 app = Flask(__name__)
 app.config["JSON_SORT_KEYS"] = False
 
-# Helper functions for routes
-
 
 def get_employees():
     with open('employees.json', 'r') as f:

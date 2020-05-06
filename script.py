@@ -12,7 +12,7 @@ def generateNumber():
 
 def generateSkills(skills, descriptions):
     skills_dict = defaultdict(list)
-    num_skills = random.randint(1, 3)
+    num_skills = random.randint(2, 6)
     skills_sample = random.sample(skills, num_skills)
 
     for skill in skills_sample:
@@ -37,14 +37,14 @@ def writeToFile(girls, boys):
                            "excel": "Have worked with excel for years and if anybody needs help, please contact.",
                            "photoshop": "Have worked with it for years and can manipulate every image possible. Let me know.",
                            "illustrator": "Worked on multiple company wide projects involving illustrator and am willing to share my expertise.",
-                           "indesign": "Used to be a graphic designer so if anybody needs help with graphics, bang my line.",
+                           "indesign": "Used to be a graphic designer so if anybody needs help with graphics, please call!",
                            "public_speaking": "Can help people prepare for any presentations, just email me!",
                            "python": "If anybody is learning Python or just needs help with a project or piece of code, contact me!",
                            "c++": "If anybody is learning a new language and its C++ for some reason, hit me up!",
-                           "frontend": "If anybody is working on web development and needs help with the frontend, feel free to email me me."}
+                           "frontend": "If anybody is working on web development and needs help with the frontend, feel free to email me."}
 
     with open("employees.json", "w+") as file:
-        for name in girls[:50]:
+        for name in girls[:25]:
             object = {}
             object["id"] = girls.index(name) + 1
             object["name"] = name.text.split()[0]
@@ -56,9 +56,9 @@ def writeToFile(girls, boys):
 
             file.write(str(object) + ",")
 
-        for name in boys[:50]:
+        for name in boys[:25]:
             object = {}
-            object["id"] = boys.index(name) + 51
+            object["id"] = boys.index(name) + 26
             object["name"] = name.text.split()[0]
             object["email"] = object["name"] + \
                 str(random.randint(0, 999)) + random.choice(emails)

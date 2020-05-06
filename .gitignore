@@ -1,4 +1,6 @@
 outline.txt
+faces.py
+script.py
 env/
 .vscode/
 __pycache__/
