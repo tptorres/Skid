@@ -49,5 +49,21 @@ def get_department_employees():
     return jsonify(res)
 
 
+@app.route("/api/v1/employees/skill/<skill_name>")
+def findEmployeeBySkills(skill_name):
+    return jsonify(get_employee_by_skill(skill_name))
+
+
+def get_employee_by_skill(skillName):
+    with open('employees.json', 'r') as f:
+        data = json.load(f)
+        res = []
+        for employee in data:
+            for skills in employee["skills"]:
+                if skills["skill"] == str(skillName):
+                    res.append(employee)
+    return res
+
+
 if __name__ == '__main__':
     app.run(debug=True)  # similar to nodemon, allows automatic server restart
