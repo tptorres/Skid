@@ -49,18 +49,27 @@ def get_department_employees():
     return jsonify(res)
 
 
-@app.route("/api/v1/employees/skill/<skill_name>")
-def findEmployeeBySkills(skill_name):
-    return jsonify(get_employee_by_skill(skill_name))
+@app.route("/api/v1/employees/skill")
+def find_employee_by_skills():
+    if 'name' in request.args:
+        print(request.args)
+        skill = request.args['name']
+    else:
+        return "Error: No skill was specified"
+
+    return jsonify(get_employee_by_skill(skill))
 
 
-def get_employee_by_skill(skillName):
+def get_employee_by_skill(skill):
     with open('employees.json', 'r') as f:
+        if skill.strip() == "c":
+            skill = "c++"
         data = json.load(f)
         res = []
         for employee in data:
             for skills in employee["skills"]:
-                if skills["skill"] == str(skillName):
+                # print(skill)
+                if skills["skill"] == skill:
                     res.append(employee)
     return res
 
